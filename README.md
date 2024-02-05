@@ -8,15 +8,6 @@ Welcome to the Random Number Guessing Game! In this program, a random number wil
 4. Keep guessing until you correctly guess the number.
 5. Once you guess the number correctly, the program will display the number of attempts it took you to win the game.
 
-## Instructions for Running the Program
-
-To run the program, follow these steps:
-
-1. Make sure you have a C++ compiler installed on your system. (e.g., Dev C++, Visual Studio Code with C++ extension, or any other IDE that supports C++).
-2. Download the source code file (`random_number_guessing_game.cpp`) from this repository.
-3. Open the file in your C++ IDE.
-4. Compile and run the program.
-5. Follow the on-screen instructions to play the game.
 
 ## About the Program
 
